@@ -7,3 +7,20 @@
 ## Day 2
 
 - Project <b>Tip Calculator</b>
+
+## Day 3
+
+- Project <b>CLI Quest</b>
+
+## Day 4
+
+- Project <b>Rock Paper Scissors</b>
+
+## Day 5
+
+- Project <b>Password Generator</b>
+
+## Day 7
+
+- Project <b>Hangman game</b>
+
